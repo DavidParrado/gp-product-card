@@ -8,7 +8,7 @@
     "src"
   ],
   "repository": {
-    "url": "https://github.com/DavidParrado/gp-product-card",
+    "url": "https://github.com/DavidParrado/gpj-product-card",
     "type": "git"
   },
   "engines": {
@@ -38,7 +38,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "gp-product-card",
+  "name": "gpj-product-card",
   "author": "Juan",
   "module": "dist/gp-product-card.esm.js",
   "size-limit": [
