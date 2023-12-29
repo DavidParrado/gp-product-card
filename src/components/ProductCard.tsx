@@ -1,6 +1,6 @@
-import { useProduct } from "../hooks/useProduct";
-
 import React, { createContext } from "react";
+
+import { useProduct } from "../hooks/useProduct";
 import { ProductContextProps, Product, onChangeArgs, InitialValues, ProductCardHandlers } from "../interfaces/interfaces";
 
 import styles from '../styles/styles.module.css';
